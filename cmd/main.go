@@ -6,6 +6,7 @@
 package main
 
 import (
+	"github.com/adamswsk/device-rfid-llrp"
 	"github.com/adamswsk/device-rfid-llrp/internal/driver"
 	"github.com/edgexfoundry/device-sdk-go/pkg/startup"
 )
