@@ -9,7 +9,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"github.com/adamswsk/device-rfid-llrp/internal/llrp"
-	dsModels "github.com/edgexfoundry/device-sdk-go/pkg/models"
+	dsModels "github.com/edgexfoundry/device-sdk-go/v2/pkg/models"
 	"testing"
 	"time"
 )

@@ -10,7 +10,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"github.com/adamswsk/device-rfid-llrp/internal/llrp"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/logger"
+	"github.com/edgexfoundry/go-mod-core-contracts/v2/clients/logger"
 	"net"
 	"os"
 	"strconv"
